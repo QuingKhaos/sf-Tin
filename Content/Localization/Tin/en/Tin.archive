@@ -1,0 +1,176 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Tin",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Gas Nobelisk from Organotins"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Gas Nobelisk from Organotins"
+					},
+					"Key": "GasNobeliskOrganotins/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Pulse Nobelisk from Organotins"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Pulse Nobelisk from Organotins"
+					},
+					"Key": "PulseNobeliskOrganotins/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Solder Circuit Board"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Solder Circuit Board"
+					},
+					"Key": "SolderCircuitBoard/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Bronze Ingot"
+					},
+					"Key": "BronzeIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Plate"
+					},
+					"Translation":
+					{
+						"Text": "Bronze Plate"
+					},
+					"Key": "BronzePlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Organotins"
+					},
+					"Translation":
+					{
+						"Text": "Organotins"
+					},
+					"Key": "Organotins/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Solder"
+					},
+					"Translation":
+					{
+						"Text": "Solder"
+					},
+					"Key": "Solder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Solder Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Solder Ingot"
+					},
+					"Key": "SolderIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Alloys Production"
+					},
+					"Translation":
+					{
+						"Text": "Tin Alloys Production"
+					},
+					"Key": "TinAlloysProduction/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Tin Ingot"
+					},
+					"Key": "TinIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Ore"
+					},
+					"Translation":
+					{
+						"Text": "Tin Ore"
+					},
+					"Key": "TinOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Plate"
+					},
+					"Translation":
+					{
+						"Text": "Tin Plate"
+					},
+					"Key": "TinPlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tinned Wire"
+					},
+					"Translation":
+					{
+						"Text": "Tinned Wire"
+					},
+					"Key": "TinnedWire/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tinned copper wires to prevent corrosion."
+					},
+					"Translation":
+					{
+						"Text": "Tinned copper wires to prevent corrosion."
+					},
+					"Key": "TinnedWire/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toxic compounds often used to stabilize plastics."
+					},
+					"Translation":
+					{
+						"Text": "Toxic compounds often used to stabilize plastics."
+					},
+					"Key": "Organotins/Desc"
+				}
+			]
+		}
+	]
+}

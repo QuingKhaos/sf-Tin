@@ -1,0 +1,191 @@
+{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Tin",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Gas Nobelisk from Organotins"
+					},
+					"Keys": [
+						{
+							"Key": "GasNobeliskOrganotins/Recipe",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Pulse Nobelisk from Organotins"
+					},
+					"Keys": [
+						{
+							"Key": "PulseNobeliskOrganotins/Recipe",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Solder Circuit Board"
+					},
+					"Keys": [
+						{
+							"Key": "SolderCircuitBoard/Recipe",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Ingot"
+					},
+					"Keys": [
+						{
+							"Key": "BronzeIngot/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Plate"
+					},
+					"Keys": [
+						{
+							"Key": "BronzePlate/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Organotins"
+					},
+					"Keys": [
+						{
+							"Key": "Organotins/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Solder"
+					},
+					"Keys": [
+						{
+							"Key": "Solder/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Solder Ingot"
+					},
+					"Keys": [
+						{
+							"Key": "SolderIngot/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Alloys Production"
+					},
+					"Keys": [
+						{
+							"Key": "TinAlloysProduction/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Ingot"
+					},
+					"Keys": [
+						{
+							"Key": "TinIngot/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Ore"
+					},
+					"Keys": [
+						{
+							"Key": "TinOre/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Plate"
+					},
+					"Keys": [
+						{
+							"Key": "TinPlate/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tinned Wire"
+					},
+					"Keys": [
+						{
+							"Key": "TinnedWire/Name",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Tinned copper wires to prevent corrosion."
+					},
+					"Keys": [
+						{
+							"Key": "TinnedWire/Desc",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Toxic compounds often used to stabilize plastics."
+					},
+					"Keys": [
+						{
+							"Key": "Organotins/Desc",
+							"Path": "/Tin/ST_Tin.ST_Tin"
+						}
+					]
+				}
+			]
+		}
+	]
+}
