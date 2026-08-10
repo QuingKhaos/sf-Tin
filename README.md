@@ -6,7 +6,7 @@ Adds tin ore, tin plates, solder, organotins, and tinned cable, and bronze to th
 
 ## What's in this mod?
 
-### Lead Ore
+### Tin Ore
 
 Tin Ore node placement is preliminary and subject to change based on playtesting and feedback.
 
@@ -15,6 +15,14 @@ Tin Ore node placement is preliminary and subject to change based on playtesting
 <img src="https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Map.png?raw=true" alt="Map" width="100%" /> <!-- markdownlint-disable MD044 --> <br />
 Legend: Green = Pure, Orange = Normal, Red = Impure
 </details>
+
+### Tin Ingot
+
+![Tin Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinIngot.png?raw=true)
+
+### Tin Plate
+
+![Tin Plate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinPlate.png?raw=true)
 
 ## License
 
