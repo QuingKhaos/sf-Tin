@@ -30,6 +30,20 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Tinned Wire recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinnedWire.png?raw=true)
 
+### Solder Ingot
+
+![Solder Production schematic](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Schematic_SolderProduction.png?raw=true)
+
+![Solder Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_SolderIngot.png?raw=true)
+
+If [Lead](https://ficsit.app/mod/Lead) is installed, the recipe changes to
+
+![Solder Ingot with Lead recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_SolderIngot_Lead.png?raw=true)
+
+### Solder
+
+![Solder recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Solder.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.

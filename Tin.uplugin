@@ -31,6 +31,12 @@
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
+		},
+		{
+			"Name": "Lead",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": ">=0.1.0"
 		}
 	],
 	"GameVersion": ">=491125"
