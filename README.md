@@ -24,6 +24,12 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Tin Plate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinPlate.png?raw=true)
 
+### Tinned Wire
+
+![Tinned Wire schematic](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Schematic_TinnedWire.png?raw=true)
+
+![Tinned Wire recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinnedWire.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
