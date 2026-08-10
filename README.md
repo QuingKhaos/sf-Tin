@@ -34,7 +34,7 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Tin Alloys Production schematic](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Schematic_TinAlloysProduction.png?raw=true)
 
-### Solder Ingot
+#### Solder Ingot
 
 ![Solder Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_SolderIngot.png?raw=true)
 
@@ -42,17 +42,23 @@ If [Lead](https://ficsit.app/mod/Lead) is installed, the recipe changes to
 
 ![Solder Ingot with Lead recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_SolderIngot_Lead.png?raw=true)
 
-### Solder
+#### Solder
 
 ![Solder recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Solder.png?raw=true)
 
-### Bronze Ingot
+#### Bronze Ingot
 
 ![Bronze Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_BronzeIngot.png?raw=true)
 
-### Bronze Plate
+#### Bronze Plate
 
 ![Bronze Plate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_BronzePlate.png?raw=true)
+
+### Organotins
+
+Unlocked with Oil Processing.
+
+![Organotins recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Organotins.png?raw=true)
 
 ## License
 
