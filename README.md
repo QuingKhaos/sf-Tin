@@ -2,7 +2,93 @@
 
 # Tin
 
-Adds tin ore, tin plates, solder, organotins, and tinned cable, and bronze to the game.
+Adds tin ore, tin plates, solder, organotins, tinned cable, and bronze to the game.
+
+If you need to plan things out, you can use my [custom database](https://github.com/QuingKhaos/KhaosSatisfactoryModelerData) for Satisfactory Modeler.
+
+## What's in this mod?
+
+### Tin Ore
+
+Tin Ore node placement is preliminary and subject to change based on playtesting and feedback.
+
+<details>
+<summary>Map (spoiler!)</summary>
+<img src="https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Map.png?raw=true" alt="Map" width="100%" /> <!-- markdownlint-disable MD044 --> <br />
+Legend: Green = Pure, Orange = Normal, Red = Impure
+</details>
+
+### Tin Ingot
+
+![Tin Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinIngot.png?raw=true)
+
+### Tin Plate
+
+![Tin Plate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinPlate.png?raw=true)
+
+### Tinned Wire
+
+![Tinned Wire schematic](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Schematic_TinnedWire.png?raw=true)
+
+![Tinned Wire recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_TinnedWire.png?raw=true)
+
+Tinned Wire is a pure buildable ingredient.
+
+### Tin Alloys Production
+
+![Tin Alloys Production schematic](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Schematic_TinAlloysProduction.png?raw=true)
+
+#### Solder Ingot
+
+![Solder Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_SolderIngot.png?raw=true)
+
+If [Lead](https://ficsit.app/mod/Lead) is installed, the recipe changes to
+
+![Solder Ingot with Lead recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_SolderIngot_Lead.png?raw=true)
+
+#### Solder
+
+![Solder recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Solder.png?raw=true)
+
+Solder is also used as a buildable ingredient.
+
+![Solder Circuit Board alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_SolderCircuitBoard.png?raw=true)
+
+Respects the recipe changes from [Salt & Chlorine](https://ficsit.app/mod/Chlorine) and [Silicon](https://ficsit.app/mod/Silicon) to the High-Speed Connector and merges with them.
+
+![High-Speed Connector recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_HighSpeedConnector.png?raw=true)
+
+![Silicon High-Speed Connector alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_SiliconHighSpeedConnector.png?raw=true)
+
+#### Bronze Ingot
+
+![Bronze Ingot recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_BronzeIngot.png?raw=true)
+
+#### Bronze Plate
+
+![Bronze Plate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_BronzePlate.png?raw=true)
+
+Bronze Plate is primarily a buildable ingredient.
+
+![Rigor Motor alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_RigorMotor.png?raw=true)
+
+### Organotins
+
+Unlocked with Oil Processing.
+
+![Organotins recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Organotins.png?raw=true)
+
+![Residual Rubber recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_ResidualRubber.png?raw=true)
+
+![Recycled Rubber alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_RecycledRubber.png?raw=true)
+
+![Residual Plastic recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_ResidualPlastic.png?raw=true)
+
+![Recycled Plastic alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_RecycledPlastic.png?raw=true)
+
+![Gas Nobelisk from Organotins alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_GasNobeliskOrganotins.png?raw=true)
+
+![Pulse Nobelisk from Organotins alternate recipe](https://github.com/QuingKhaos/sf-Tin/blob/0.x/.github/images/Recipe_Alternate_PulseNobeliskOrganotins.png?raw=true)
 
 ## License
 

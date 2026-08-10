@@ -16,6 +16,13 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
+	"LocalizationTargets": [
+		{
+			"Name": "Tin",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "KBFL",
@@ -31,6 +38,24 @@
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
+		},
+		{
+			"Name": "Chlorine",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": ">=0.1.0"
+		},
+		{
+			"Name": "Lead",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": ">=0.1.0"
+		},
+		{
+			"Name": "Silicon",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": ">=0.1.0"
 		}
 	],
 	"GameVersion": ">=491125"
