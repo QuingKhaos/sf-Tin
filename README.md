@@ -2,7 +2,9 @@
 
 # Tin
 
-Adds tin ore, tin plates, solder, organotins, and tinned cable, and bronze to the game.
+Adds tin ore, tin plates, solder, organotins, tinned cable, and bronze to the game.
+
+If you need to plan things out, you can use my [custom database](https://github.com/QuingKhaos/KhaosSatisfactoryModelerData) for Satisfactory Modeler.
 
 ## What's in this mod?
 
