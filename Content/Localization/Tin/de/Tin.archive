@@ -1,0 +1,176 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Tin",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Gas Nobelisk from Organotins"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Gas-Nobelisk aus Zinnorganische Verbindungen"
+					},
+					"Key": "GasNobeliskOrganotins/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Pulse Nobelisk from Organotins"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Impuls-Nobelisk aus Zinnorganische Verbindungen"
+					},
+					"Key": "PulseNobeliskOrganotins/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Solder Circuit Board"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Lötplatine"
+					},
+					"Key": "SolderCircuitBoard/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Bronzebarren"
+					},
+					"Key": "BronzeIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bronze Plate"
+					},
+					"Translation":
+					{
+						"Text": "Bronzeplatte"
+					},
+					"Key": "BronzePlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Organotins"
+					},
+					"Translation":
+					{
+						"Text": "Zinnorganische Verbindungen"
+					},
+					"Key": "Organotins/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Solder"
+					},
+					"Translation":
+					{
+						"Text": "Lötzinn"
+					},
+					"Key": "Solder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Solder Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Lötzinnbarren"
+					},
+					"Key": "SolderIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Alloys Production"
+					},
+					"Translation":
+					{
+						"Text": "Zinnlegierung Produktion"
+					},
+					"Key": "TinAlloysProduction/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Zinnbarren"
+					},
+					"Key": "TinIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Ore"
+					},
+					"Translation":
+					{
+						"Text": "Zinnerz"
+					},
+					"Key": "TinOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tin Plate"
+					},
+					"Translation":
+					{
+						"Text": "Zinnplatte"
+					},
+					"Key": "TinPlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tinned Wire"
+					},
+					"Translation":
+					{
+						"Text": "Verzinnter Draht"
+					},
+					"Key": "TinnedWire/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tinned copper wires to prevent corrosion."
+					},
+					"Translation":
+					{
+						"Text": "Verzinnte Kupferdrähte zum Schutz vor Korrosion."
+					},
+					"Key": "TinnedWire/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toxic compounds often used to stabilize plastics."
+					},
+					"Translation":
+					{
+						"Text": "Giftige Verbindungen, die häufig zur Stabilisierung von Kunststoffen verwendet werden."
+					},
+					"Key": "Organotins/Desc"
+				}
+			]
+		}
+	]
+}
